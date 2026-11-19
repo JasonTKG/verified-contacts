@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jasontkg.github.io/verified-contacts/sitemap.xml
